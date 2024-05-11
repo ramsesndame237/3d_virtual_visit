@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alcalá de Benabeti (Escenario modular)
+* source:	https://sketchfab.com/3d-models/alcala-de-benabeti-escenario-modular-f31b55a5147440dbbfb37239143eecbf
+* author:	Pabloiagudo (https://sketchfab.com/Pabloiagudo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alcalá de Benabeti (Escenario modular)" (https://sketchfab.com/3d-models/alcala-de-benabeti-escenario-modular-f31b55a5147440dbbfb37239143eecbf) by Pabloiagudo (https://sketchfab.com/Pabloiagudo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
